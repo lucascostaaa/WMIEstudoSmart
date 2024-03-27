@@ -30,3 +30,6 @@ Abra o Prompt de Comando ou PowerShell na pasta onde os arquivos fonte foram sal
 
 1. Acesso Negado: Certifique-se de que o programa seja executado com privilégios de administrador, pois a consulta de dados SMART pode requerer permissões elevadas.
 2. Dados SMART não disponíveis: Alguns discos ou sistemas podem não suportar a leitura de dados SMART através de WMI, ou o suporte ao SMART pode estar desabilitado na BIOS/UEFI.
+
+## Informações Coletadas (Desktop, não foi possivel coletar as informações de Notebook)
+![image](https://github.com/lucascostaaa/WMIEstudoSmart/assets/56397638/9fc0eb5e-2e02-446f-9b66-0b2ef6318de7)
