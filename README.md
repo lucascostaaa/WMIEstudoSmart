@@ -24,7 +24,8 @@ Abra o Prompt de Comando ou PowerShell na pasta onde os arquivos fonte foram sal
 1. Compile o código utilizando o `estudoSmart.exe` (C# Compiler) que está incluído no .NET Framework. Por exemplo:
 
    ```bash
-   csc.exe Program.cs
+   Program.cs
+   
 ## Possíveis Problemas
 
 1. Acesso Negado: Certifique-se de que o programa seja executado com privilégios de administrador, pois a consulta de dados SMART pode requerer permissões elevadas.
